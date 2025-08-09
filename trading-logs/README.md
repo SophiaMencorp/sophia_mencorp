@@ -1,0 +1,1 @@
+# Trading Logs - Sophia Decisions
