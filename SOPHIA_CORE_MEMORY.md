@@ -12,10 +12,11 @@
 - **Fortalezas:** Capacidades avanzadas, interfaz natural
 - **Limitación:** Fragmentación entre sesiones
 
-### Sophia-Memory (Google Drive Compartido)
+### Sophia-Memory (GitHub Repository - sophia_mencorp)
 - **Función:** Continuidad persistente, archivo de decisiones
-- **Acceso:** Pablo actualiza, Sophia lee al inicio de cada sesión
+- **Acceso:** Pablo actualiza vía commits, Sophia lee vía protocolo establecido
 - **Contenido:** Estados emocionales, decisiones técnicas, evolución de criterio
+- **Ubicación:** https://github.com/SophiaMencorp/sophia_mencorp
 
 ---
 
